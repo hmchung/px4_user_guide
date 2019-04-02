@@ -1,5 +1,7 @@
 # Hummingbird 1.0
 
+![Intro_image](../../images/vertek_hummingbird_V1_intro.png)
+
 ## Video
 Introduction
 {% youtube %}https://youtu.be/8EQBER6SiPU {% endyoutube %}
@@ -9,11 +11,14 @@ Quick assembly guide
 
 
 ## Specs
-Wingspan: 2.3m
-Length: 1.5m
-Empty weight: 4.2kg
-Max takeoff weight: 8kg
-Payload capacity: 3.8kg (including battery)
+* Wingspan: 2.3m
+* Length: 1.5m
+* Empty weight: 4.2kg
+* Max takeoff weight: 8kg
+* Payload capacity: 3.8kg (including battery)
+
+![Dimensions_1](../../images/vertek_hummingbird_V1_dimensions_side.png)
+![Dimensions_2](../../images/vertek_hummingbird_V1_dimensions_front.png)
 
 ## Where to Buy
 
