@@ -10,6 +10,7 @@ This section contains information about complete vehicles that run PX4.
     * [Teal One](https://tealdrones.com/teal-one/)
   * VTOL
     * [Vertical Technologies DeltaQuad](https://px4.io/portfolio/deltaquad-vtol/)
+    * [Vertek Hummingbird 1.0](https://www.vertek.io/products/hummingbird)
 - Consumer drones that can be updated to run PX4 (from other flight stacks):
   * [Crazyflie 2.0](../complete_vehicles/crazyflie2.md)
   * [Parrot Bebop](../complete_vehicles/bebop.md)
