@@ -2,10 +2,10 @@
 
 ## Video
 Introduction
-{% youtube %}https://youtu.be/8EQBER6SiPU{% endyoutube %}
+{% youtube %}https://youtu.be/8EQBER6SiPU {% endyoutube %}
 
 Quick assembly guide
-{% youtube %}https://youtu.be/poj2kVe34r4{% endyoutube %}
+{% youtube %}https://youtu.be/poj2kVe34r4 {% endyoutube %}
 
 
 ## Specs
